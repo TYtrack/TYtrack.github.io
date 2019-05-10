@@ -38,14 +38,16 @@ Andrew Ng在NIPS2001年有一篇专门比较判别模型和产生式模型的文
        Linear Regression
 
 
-产生式模型常见的主要有：                
+产生式模型常见的主要有：  
+
        Gaussians
        Naive Bayes
        Mixtures of Multinomials
        Mixtures of Gaussians
        Mixtures of Experts
        HMMs
-       Sigmoidal Belief Networks, Bayesian Networks
+       Sigmoidal Belief Networks
+       Bayesian Networks
        Markov Random Fields
        Latent Dirichlet Allocation
 
@@ -56,15 +58,15 @@ Andrew Ng在NIPS2001年有一篇专门比较判别模型和产生式模型的文
 (1,0), (1,0), (2,0), (2, 1)
 
 p(x,y) is
-   ——      | y=0   |  y=1  
-    --   | ------  | ----
-   x=1     | 1/2 |   0     
-   x=2     | 1/4 |   1/4   
+——      | y=0   |  y=1  
+  --   | ------  | ----
+ x=1     | 1/2 |   0     
+ x=2     | 1/4 |   1/4   
    
     
    
    
- p(y|x) is
+ p(y\|x) is
   ——    | y=0   |  y=1  
  ----   | ------  | ------  
  x=1     | 1 |   0     
@@ -83,6 +85,6 @@ If you take a few minutes to stare at those two matrices, you will understand th
 
 
 > 参考资料：<br>
-> http://bbs.sciencenet.cn/blog-484653-442300.html
-> http://www.leexiang.com/discriminative-model-and-generative-model
+> http://bbs.sciencenet.cn/blog-484653-442300.html <br>
+> http://www.leexiang.com/discriminative-model-and-generative-model <br>
 > http://blog.163.com/huai_jing@126/blog/static/1718619832011227757554/
