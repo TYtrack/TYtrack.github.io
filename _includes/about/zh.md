@@ -5,9 +5,9 @@
 Hey，我是ZPlus，偶像死宅+NLP爱好者，杰尼龟进化体，多出没于[博客](https://tytrack.gitub.io)、[CSDN]()[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/zhi-zhang-a-38/activities)、[简书](https://www.jianshu.com/u/a47f605ff8df)、[Github](http://github.com/tytrack)、[Instagram](https://instagram.com/zplus_cug) 等地带，绝招尚在开发中。
 
 
-修习地点：中国地质大学（武汉），专业信息安全不感冒，机器学习、深度学习、NLP学习中。目前在 [AKB48](https://akb48.co.jp)、[HKT48](http://www.hkt48.jp/)、[乃木坂46](http://www.nogizaka46.com/)、[欅坂46](http://www.keyakizaka46.com/)、 [GNZ48](http://www.gnz48.com/)均有涉猎，曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+修习地点：中国地质大学（武汉），专业信息安全不感冒，机器学习、深度学习、NLP学习中。技能??：我真的很爱区块链、但是密码学决定了我研究的深度、我永远爱自然语言处理和深度学习；~~曾经利用学校教务网站爬取全校信息建立信息库~~。偶像方面目前在 [AKB48](https://akb48.co.jp)、[HKT48](http://www.hkt48.jp/)、[乃木坂46](http://www.nogizaka46.com/)、[欅坂46](http://www.keyakizaka46.com/)、 [GNZ48](http://www.gnz48.com/)均有涉猎。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](https://zhuanlan.zhihu.com/p/21280918)。 
+一些作品和开源软件项目，👉 戳 [TripSafety](https://github.com/TYtrack/TripSafety)、[Github](http://github.com/TYtrack)
 
 
 ##### Talks
