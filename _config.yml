@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     YuuriOreo
-zhihu_username:     寒武纪的笔石
+zhihu_username:     zhi-zhang-a-38
 github_username:    TYtrack
 twitter_username:   zplus_cug
 #facebook_username:  huxpro
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Entities should not be multiplied unnecessarily<br>若有多个假设与观察一致，则选最简单的那个"
+sidebar-about-description: "Valar Morghulis<br>若有多个假设与观察一致，则选最简单的那个"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
