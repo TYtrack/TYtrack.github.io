@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zplus@cug.edu.cn
 description: "关于算法与机器学习、AKB48与乃木坂46 | 郑召作，Web & Android Lover，Infomation Security，Android Developer | 这里是 @Zplus || TYtrack 的个人博客，若有多个假设与观察一致，则选最简单的那个。"
 keyword: "TYtrack, 郑召作, Zplus, 乃木坂46, 机器学习, @YuuriOreo, Zplus的博客, Zplus Blog, 博客, 个人网站, 互联网, Android, TensorFlow, 深度学习, NLP"
-url: "https://tytrack.github.io/"              # your host, for absolute URL
+url: "https://tytrack.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     YuuriOreo
-zhihu_username:     寒武纪的笔石
+zhihu_username:     zhi-zhang-a-38
 github_username:    TYtrack
 twitter_username:   zplus_cug
 #facebook_username:  huxpro
